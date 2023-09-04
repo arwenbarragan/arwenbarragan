@@ -1,6 +1,6 @@
 ### bem vindo ao meu perfil 💍
 
-<!--
+
 **arwenbarragan/arwenbarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+ ![]()https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdisney-no-gifs&psig=AOvVaw2Y3vAf3Iquq7Lfkc-f191y&ust=1693922146415000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLimjvONkYEDFQAAAAAdAAAAABAs
